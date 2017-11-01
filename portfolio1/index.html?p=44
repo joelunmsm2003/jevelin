@@ -1,0 +1,826 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8">
+
+			<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+					
+	<!-- Facebook Pixel Code -->
+	<script>
+	!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+	n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+	document,'script','https://connect.facebook.net/en_US/fbevents.js');
+	fbq('init', '1233020020073056'); // Insert your pixel ID here.
+	fbq('track', 'PageView');
+	</script>
+	<noscript><img height="1" width="1" style="display:none"
+	src="https://www.facebook.com/tr?id=1233020020073056&ev=PageView&noscript=1"
+	/></noscript>
+	<!-- DO NOT MODIFY -->
+	<!-- End Facebook Pixel Code -->
+
+	<link type="text/css" media="all" href="https://jevelin.shufflehound.com/portfolio1/wp-content/cache/autoptimize/12/css/autoptimize_040f7cbffc45a98f04ddac9e6ef9beb8.css" rel="stylesheet" /><link type="text/css" media="only screen and (max-width: 768px)" href="https://jevelin.shufflehound.com/portfolio1/wp-content/cache/autoptimize/12/css/autoptimize_57afcea827824d1db313888418fe13fa.css" rel="stylesheet" /><title>Gray Bag Mock-up &#8211; Jevelin Theme Portfolio Demo</title>
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Jevelin Theme Portfolio Demo &raquo; Feed" href="https://jevelin.shufflehound.com/portfolio1/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Jevelin Theme Portfolio Demo &raquo; Comments Feed" href="https://jevelin.shufflehound.com/portfolio1/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/jevelin.shufflehound.com\/portfolio1\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.4"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<link rel='stylesheet' id='jevelin-fonts-css'  href='https://fonts.googleapis.com/css?family=Raleway:200,300,300italic,regular,italic,600,600italic,700,700italic,|Montserrat:200,300,300italic,regular,italic,600,600italic,700,700italic,&#038;subset=latin' type='text/css' media='all' />
+<script type='text/javascript' src='https://jevelin.shufflehound.com/portfolio1/wp-includes/js/jquery/jquery.js?ver=1.12.4'></script>
+
+
+
+
+<link rel='https://api.w.org/' href='https://jevelin.shufflehound.com/portfolio1/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://jevelin.shufflehound.com/portfolio1/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://jevelin.shufflehound.com/portfolio1/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='Beautiful Landscape' href='https://jevelin.shufflehound.com/portfolio1/project/beautiful-landscape/' />
+<link rel='next' title='Frame With Logo' href='https://jevelin.shufflehound.com/portfolio1/project/frame-with-logo/' />
+<meta name="generator" content="WordPress 4.7.4" />
+<meta name="generator" content="WooCommerce 3.0.1" />
+<link rel="canonical" href="https://jevelin.shufflehound.com/portfolio1/project/gray-bag-mock-up/" />
+<link rel='shortlink' href='https://jevelin.shufflehound.com/portfolio1/?p=44' />
+<link rel="alternate" type="application/json+oembed" href="https://jevelin.shufflehound.com/portfolio1/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjevelin.shufflehound.com%2Fportfolio1%2Fproject%2Fgray-bag-mock-up%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://jevelin.shufflehound.com/portfolio1/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fjevelin.shufflehound.com%2Fportfolio1%2Fproject%2Fgray-bag-mock-up%2F&#038;format=xml" />
+
+	<meta name="description" content="Jevelin is multi-purpose WordPress theme for creating stunning websites. Features all the right tools needed for your next design.">
+	<meta name="keywords" content="agency, blog, business, corporate, creative, fitness, flat, modern, portfolio, responsive, shufflehound, startup, theme, wedding, wordpress, jevelin, multi-purpose, theme, themes">
+
+	<!-- Google Analytics -->
+		<script>
+			(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+			(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+			m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+			})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+			ga('create', 'UA-57154054-2', 'auto');
+			ga('send', 'pageview');
+		</script>
+	<!-- Google Analytics -->
+
+	<div class="sh-page-loader sh-table sh-page-loader-style-spinner">
+		<div class="sh-table-cell">
+			<div id="loading-center-absolute">
+				<div class="object" id="object_one"></div>
+				<div class="object" id="object_two"></div>
+				<div class="object" id="object_three"></div>
+			</div>
+		</div>
+	</div>
+
+	
+
+		
+		<meta name="generator" content="Powered by Slider Revolution 5.3.1.5 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface." />
+	<script type="text/javascript">
+			    	</script>
+<script type="text/javascript" src="https://jevelin.shufflehound.com/portfolio1/wp-content/cache/autoptimize/12/js/autoptimize_03bc7d0e8a04164e9e6ef396962a8d79.js"></script></head>
+<body class="fw-portfolio-template-default single single-fw-portfolio postid-44 singular">
+
+
+	
+<div class="sh-header-right-side sh-header-side">
+	<div class="sh-header-scrollbar">
+
+		<div class="sh-table-full">
+			<div class="sh-table-cell">
+
+				<div class="sh-header-mobile">
+					<nav class="sh-header-mobile-dropdown">
+						<div class="container sh-nav-container">
+							<ul class="sh-nav-mobile">
+								<li id="menu-item-63" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-63"><a href="https://jevelin.shufflehound.com/portfolio1/" >Home</a></li>
+<li id="menu-item-94" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-94"><a href="#" >Style</a>
+<ul class="sub-menu">
+	<li id="menu-item-92" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-92"><a href="https://jevelin.shufflehound.com/portfolio1/" >Masonry on Image</a></li>
+	<li id="menu-item-62" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-62"><a href="https://jevelin.shufflehound.com/portfolio1/masonry-side-header/" >Masonry + Side Header</a></li>
+</ul>
+</li>
+<li id="menu-item-95" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-95"><a href="#" >Single Posts</a>
+<ul class="sub-menu">
+	<li id="menu-item-109" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-109"><a href="http://jevelin.shufflehound.com/portfolio1/project/beautiful-landscape/" >Standard</a></li>
+	<li id="menu-item-110" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-110"><a href="http://jevelin.shufflehound.com/portfolio1/project/sketch-book/" >Gallery Slider</a></li>
+	<li id="menu-item-108" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-108"><a href="http://jevelin.shufflehound.com/portfolio1/project/stock-of-bottles/" >Video Slider</a></li>
+	<li id="menu-item-107" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-107"><a href="http://jevelin.shufflehound.com/portfolio1/project/lonely-sign/" >Iframe Slider</a></li>
+</ul>
+</li>
+<li id="menu-item-96" class="menu-item menu-item-type-taxonomy menu-item-object-fw-portfolio-category menu-item-96"><a href="https://jevelin.shufflehound.com/portfolio1/portfolio/photography/" >Photography</a></li>
+<li id="menu-item-97" class="menu-item menu-item-type-taxonomy menu-item-object-fw-portfolio-category current-fw-portfolio-ancestor current-menu-parent current-fw-portfolio-parent menu-item-97"><a href="https://jevelin.shufflehound.com/portfolio1/portfolio/design/" >Design</a></li>
+<li id="menu-item-98" class="menu-item menu-item-type-taxonomy menu-item-object-fw-portfolio-category menu-item-98"><a href="https://jevelin.shufflehound.com/portfolio1/portfolio/commercial/" >Commercial</a></li>
+							</ul>
+						</div>
+
+					</nav>
+				</div>
+
+			</div>
+		</div>
+
+					<div class="header-mobile-social-media">
+				<a href="http://jevelin.shufflehound.com"  target = "_blank"  class="social-media-twitter">
+                <i class="icon-social-twitter"></i>
+            </a><a href="http://jevelin.shufflehound.com"  target = "_blank"  class="social-media-facebook">
+                <i class="icon-social-facebook"></i>
+            </a><a href="http://jevelin.shufflehound.com"  target = "_blank"  class="social-media-instagram">
+                <i class="icon-social-instagram"></i>
+            </a><div class="sh-clear"></div>			</div>
+		
+	</div>
+</div>
+	<div id="page-container" class="">
+		
+
+					<header class="primary-mobile">
+				
+<div id="header-mobile" class="sh-header-mobile">
+	<div class="sh-header-mobile-navigation">
+		<div class="container">
+			<div class="sh-table">
+				<div class="sh-table-cell sh-group">
+
+										        <div class="header-logo">
+            <a href="https://jevelin.shufflehound.com/portfolio1/" class="header-logo-container sh-table-small">
+                <div class="sh-table-cell">
+
+                    <img class="sh-standard-logo" src="//cdn.jevelin.shufflehound.com/wp-content/uploads/sites/12/2017/03/Logo.png" alt="Jevelin Theme Portfolio Demo" />
+                    <img class="sh-sticky-logo" src="//cdn.jevelin.shufflehound.com/wp-content/uploads/sites/12/2017/03/Logo.png" alt="Jevelin Theme Portfolio Demo" />
+                    <img class="sh-light-logo" src="//cdn.jevelin.shufflehound.com/wp-content/uploads/sites/12/2017/03/Logo_w.png" alt="Jevelin Theme Portfolio Demo" />
+
+                </div>
+            </a>
+        </div>
+
+    
+				</div>
+				<div class="sh-table-cell">
+
+										<nav id="header-navigation-mobile" class="header-standard-position">
+						<div class="sh-nav-container">
+							<ul class="sh-nav">
+
+															    
+        <li class="menu-item sh-nav-dropdown">
+            <a href="#">
+                <div class="sh-table-full">
+                    <div class="sh-table-cell">
+                        <span class="c-hamburger c-hamburger--htx">
+                            <span>Toggle menu</span>
+                        </span>
+                    </div>
+                </div>
+            </a>
+        </li>
+							</ul>
+						</div>
+					</nav>
+
+				</div>
+			</div>
+		</div>
+	</div>
+
+	<nav class="sh-header-mobile-dropdown">
+		<div class="container sh-nav-container">
+			<ul class="sh-nav-mobile">
+				<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-63"><a href="https://jevelin.shufflehound.com/portfolio1/" >Home</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-94"><a href="#" >Style</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-92"><a href="https://jevelin.shufflehound.com/portfolio1/" >Masonry on Image</a></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-62"><a href="https://jevelin.shufflehound.com/portfolio1/masonry-side-header/" >Masonry + Side Header</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-95"><a href="#" >Single Posts</a>
+<ul class="sub-menu">
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-109"><a href="http://jevelin.shufflehound.com/portfolio1/project/beautiful-landscape/" >Standard</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-110"><a href="http://jevelin.shufflehound.com/portfolio1/project/sketch-book/" >Gallery Slider</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-108"><a href="http://jevelin.shufflehound.com/portfolio1/project/stock-of-bottles/" >Video Slider</a></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-107"><a href="http://jevelin.shufflehound.com/portfolio1/project/lonely-sign/" >Iframe Slider</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-fw-portfolio-category menu-item-96"><a href="https://jevelin.shufflehound.com/portfolio1/portfolio/photography/" >Photography</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-fw-portfolio-category current-fw-portfolio-ancestor current-menu-parent current-fw-portfolio-parent menu-item-97"><a href="https://jevelin.shufflehound.com/portfolio1/portfolio/design/" >Design</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-fw-portfolio-category menu-item-98"><a href="https://jevelin.shufflehound.com/portfolio1/portfolio/commercial/" >Commercial</a></li>
+			</ul>
+		</div>
+
+		<div class="container sh-nav-container">
+							<div class="header-mobile-search">
+					<form role="search" method="get" class="header-mobile-form" action="https://jevelin.shufflehound.com/portfolio1/">
+						<input class="header-mobile-form-input" type="text" placeholder="Search here.." value="" name="s" required />
+						<button type="submit" class="header-mobile-form-submit">
+							<i class="icon-magnifier"></i>
+						</button>
+					</form>
+				</div>
+					</div>
+
+					<div class="header-mobile-social-media">
+				<a href="http://jevelin.shufflehound.com"  target = "_blank"  class="social-media-twitter">
+                <i class="icon-social-twitter"></i>
+            </a><a href="http://jevelin.shufflehound.com"  target = "_blank"  class="social-media-facebook">
+                <i class="icon-social-facebook"></i>
+            </a><a href="http://jevelin.shufflehound.com"  target = "_blank"  class="social-media-instagram">
+                <i class="icon-social-instagram"></i>
+            </a><div class="sh-clear"></div>			</div>
+			</nav>
+</div>
+			</header>
+			<header class="primary-desktop">
+				
+<div class="sh-header sh-header-7 sh-header-small-icons sh-header-9">
+	<div class="container">
+		<div class="sh-table">
+			<div class="sh-table-cell">
+
+								<nav class="header-standard-position">
+					<div class="sh-nav-container">
+						<ul class="sh-nav sh-nav-left">
+
+							
+            <li class="menu-item sh-nav-social sh-nav-special">
+                <a href="http://jevelin.shufflehound.com"  target = "_blank"  class="social-media-twitter">
+                <i class="icon-social-twitter"></i>
+            </a><a href="http://jevelin.shufflehound.com"  target = "_blank"  class="social-media-facebook">
+                <i class="icon-social-facebook"></i>
+            </a><a href="http://jevelin.shufflehound.com"  target = "_blank"  class="social-media-instagram">
+                <i class="icon-social-instagram"></i>
+            </a><div class="sh-clear"></div>
+            </li>
+						</ul>
+					</div>
+				</nav>
+
+			</div>
+			<div class="sh-table-cell">
+
+								        <div class="header-logo">
+            <a href="https://jevelin.shufflehound.com/portfolio1/" class="header-logo-container sh-table-small">
+                <div class="sh-table-cell">
+
+                    <img class="sh-standard-logo" src="//cdn.jevelin.shufflehound.com/wp-content/uploads/sites/12/2017/03/Logo.png" alt="Jevelin Theme Portfolio Demo" />
+                    <img class="sh-sticky-logo" src="//cdn.jevelin.shufflehound.com/wp-content/uploads/sites/12/2017/03/Logo.png" alt="Jevelin Theme Portfolio Demo" />
+                    <img class="sh-light-logo" src="//cdn.jevelin.shufflehound.com/wp-content/uploads/sites/12/2017/03/Logo_w.png" alt="Jevelin Theme Portfolio Demo" />
+
+                </div>
+            </a>
+        </div>
+
+    
+			</div>
+			<div class="sh-table-cell">
+
+								<nav class="header-standard-position">
+					<div class="sh-nav-container">
+						<ul class="sh-nav">
+
+						    
+        <li class="menu-item sh-nav-dropdown">
+            <a href="#">
+                <div class="sh-table-full">
+                    <div class="sh-table-cell">
+                        <span class="c-hamburger c-hamburger--htx">
+                            <span>Toggle menu</span>
+                        </span>
+                    </div>
+                </div>
+            </a>
+        </li>
+						</ul>
+					</div>
+				</nav>
+
+			</div>
+		</div>
+	</div>
+
+	<div id="header-search" class="sh-header-search">
+	<div class="sh-table-full">
+		<div class="sh-table-cell">
+
+			<div class="line-test">
+				<div class="container">
+
+					<form method="get" class="sh-header-search-form" action="https://jevelin.shufflehound.com/portfolio1/">
+						<input type="search" class="sh-header-search-input" placeholder="Search Here.." value="" name="s" required />
+						<button type="submit" class="sh-header-search-submit">
+							<i class="icon-magnifier"></i>
+						</button>
+						<div class="sh-header-search-close close-header-search">
+							<i class="ti-close"></i>
+						</div>
+						
+											</form>
+
+				</div>
+			</div>
+
+		</div>
+	</div>
+</div>
+</div>
+			</header>
+		
+
+		
+	
+		
+		
+			<div class="sh-titlebar sh-titlebar-center">
+				<div class="container">
+					<div class="sh-table sh-titlebar-height-small">
+						<div class="sh-table-cell">
+							<div class="titlebar-title">
+
+								<h1>
+									Gray Bag Mock-up								</h1>
+
+							</div>
+							<div class="title-level">
+
+								<div id="breadcrumbs" class="breadcrumb-trail breadcrumbs"><span class="item-home"><a class="bread-link bread-home" href="https://jevelin.shufflehound.com/portfolio1/" title="Home">Home</a></span><span class="separator"> &gt; </span><span class="item-cat item-custom-post-type-fw-portfolio"><a class="bread-cat bread-custom-post-type-fw-portfolio" href="https://jevelin.shufflehound.com/portfolio1/project/" title="Projects">Projects</a></span><span class="separator"> &gt; </span><span class="item-current item-44"><span class="bread-current bread-44" title="Gray Bag Mock-up">Gray Bag Mock-up</span></span></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			
+
+			<div id="wrapper">
+				<div class="content-container sh-page-layout-default"">
+									<div class="container entry-content">
+				
+
+				
+	
+	
+			
+			<div class="sh-portfolio-single-default">
+				<div class="sh-portfolio-single row">
+					<div class="sh-portfolio-single-right col-md-8">
+
+												<a href="https://cdn.jevelin.shufflehound.com/wp-content/uploads/sites/12/2017/03/2-925x1024.jpg" rel="sh-lightbox[showcase]" class="sh-portfolio-single-image">
+							<img src="https://cdn.jevelin.shufflehound.com/wp-content/uploads/sites/12/2017/03/2-925x1024.jpg" alt="" />
+						</a>
+
+						<div class="sh-portfolio-single-gallery row">
+													</div>
+					</div>
+					<div class="sh-portfolio-single-left col-md-4">
+						<div class="sh-portfolio-single-whitespace hidden-md hidden-lg"></div>
+						<div class="sh-portfolio-single-buttons">
+							<div class="sh-page-switcher"><a class="sh-page-switcher-button" href="https://jevelin.shufflehound.com/portfolio1/project/beautiful-landscape/"><i class="ti-arrow-left"></i></a><a class="sh-page-switcher-button" href="https://jevelin.shufflehound.com/portfolio1/project/frame-with-logo/"><i class="ti-arrow-right"></i></a></div>						</div>
+						<h3 class="sh-portfolio-single-title">Gray Bag Mock-up</h3>
+						<div class="sh-portfolio-single-description"><p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vitae dui felis. Curabitur posuere nibh et orci consequat, nec molestie dui pulvinar. Cras auctor ligula quis ante tristique, vitae vestibulum magna aliquam. Mauris vel luctus dolor. Sed ac consequat turpis. Aenean dignissim velit ut varius congue. Nunc lacinia consequat lorem, ut suscipit lorem rutrum sit amet. Ut et elementum ligula.</p>
+</div>
+											    	<div class="sh-portfolio-single-share">
+            <div class="sh-social-share">
+                <div class="sh-social-share-button sh-noselect">
+                    <i class="icon-share"></i>
+                    <span>Share</span>
+                </div>
+                <div class="sh-social-share-networks"></div>
+            </div></div>					    						<div class="sh-portfolio-single-info">
+							
+														
+							<div class="sh-portfolio-single-info-item sh-table">
+								<div class="sh-portfolio-single-info-left sh-table-cell-top">
+									<i class="icon-folder-alt"></i>
+								</div>
+								<div class="sh-portfolio-single-info-right sh-table-cell-top">
+									<div><strong>Categories</strong></div>
+									<div>
+										<a href="https://jevelin.shufflehound.com/portfolio/design/" class="sh-default-color">Design</a>, <a href="https://jevelin.shufflehound.com/portfolio/mock-up/" class="sh-default-color">Mock-up</a>									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			
+			<div class="sh-portfolio-single-related">
+			<h3>Related items</h3>
+			<div class="row">
+				
+					<div class="sh-portfolio-single-related-mini col-md-3 col-sm-6 sh-portfolio-overlay-style-overlay4">
+
+						<div class="sh-portfolio-image">
+							<a href="https://jevelin.shufflehound.com/portfolio1/project/frame-with-logo/">
+
+								<div class="sh-portfolio-image-position">
+									<img class="sh-portfolio-img" src="https://cdn.jevelin.shufflehound.com/wp-content/uploads/sites/12/2017/03/1-660x420.jpg" alt="" />
+								</div>
+
+								<div class="sh-portfolio-overlay sh-portfolio-overlay4">
+									<div class="sh-portfolio-overlay4-container">
+										<div class="sh-portfolio-overlay4-icons sh-table">
+
+							                <a href="https://jevelin.shufflehound.com/portfolio1/project/frame-with-logo/" class="sh-overlay-item sh-table-cell">
+							                    <div class="sh-overlay-item-container">
+							                        <i class="icon-link"></i>
+							                    </div>
+							                </a>
+							                <a href="https://cdn.jevelin.shufflehound.com/wp-content/uploads/sites/12/2017/03/1-1024x922.jpg" class="sh-overlay-item sh-table-cell" rel="lightbox">
+							                    <div class="sh-overlay-item-container">
+							                        <i class="icon-magnifier-add"></i>
+							                    </div>
+							                </a>
+
+										</div>
+									</div>
+								</div>
+
+							</a>
+						</div>
+						<a href="https://jevelin.shufflehound.com/portfolio1/project/frame-with-logo/">
+							<h5>
+								Frame With Logo							</h5>
+						</a>
+						<div>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vitae dui felis. Curabitur posuere nibh&hellip;</div>
+					</div>
+				
+					<div class="sh-portfolio-single-related-mini col-md-3 col-sm-6 sh-portfolio-overlay-style-overlay4">
+
+						<div class="sh-portfolio-image">
+							<a href="https://jevelin.shufflehound.com/portfolio1/project/website-mock-up-with-tool-tip/">
+
+								<div class="sh-portfolio-image-position">
+									<img class="sh-portfolio-img" src="https://cdn.jevelin.shufflehound.com/wp-content/uploads/sites/12/2017/03/7-660x420.jpg" alt="" />
+								</div>
+
+								<div class="sh-portfolio-overlay sh-portfolio-overlay4">
+									<div class="sh-portfolio-overlay4-container">
+										<div class="sh-portfolio-overlay4-icons sh-table">
+
+							                <a href="https://jevelin.shufflehound.com/portfolio1/project/website-mock-up-with-tool-tip/" class="sh-overlay-item sh-table-cell">
+							                    <div class="sh-overlay-item-container">
+							                        <i class="icon-link"></i>
+							                    </div>
+							                </a>
+							                <a href="https://cdn.jevelin.shufflehound.com/wp-content/uploads/sites/12/2017/03/7-937x1024.jpg" class="sh-overlay-item sh-table-cell" rel="lightbox">
+							                    <div class="sh-overlay-item-container">
+							                        <i class="icon-magnifier-add"></i>
+							                    </div>
+							                </a>
+
+										</div>
+									</div>
+								</div>
+
+							</a>
+						</div>
+						<a href="https://jevelin.shufflehound.com/portfolio1/project/website-mock-up-with-tool-tip/">
+							<h5>
+								Website Mock-up With Tool-tip							</h5>
+						</a>
+						<div>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vitae dui felis. Curabitur posuere nibh&hellip;</div>
+					</div>
+				
+					<div class="sh-portfolio-single-related-mini col-md-3 col-sm-6 sh-portfolio-overlay-style-overlay4">
+
+						<div class="sh-portfolio-image">
+							<a href="https://jevelin.shufflehound.com/portfolio1/project/book-cover-design/">
+
+								<div class="sh-portfolio-image-position">
+									<img class="sh-portfolio-img" src="https://cdn.jevelin.shufflehound.com/wp-content/uploads/sites/12/2017/03/5-660x420.jpg" alt="" />
+								</div>
+
+								<div class="sh-portfolio-overlay sh-portfolio-overlay4">
+									<div class="sh-portfolio-overlay4-container">
+										<div class="sh-portfolio-overlay4-icons sh-table">
+
+							                <a href="https://jevelin.shufflehound.com/portfolio1/project/book-cover-design/" class="sh-overlay-item sh-table-cell">
+							                    <div class="sh-overlay-item-container">
+							                        <i class="icon-link"></i>
+							                    </div>
+							                </a>
+							                <a href="https://cdn.jevelin.shufflehound.com/wp-content/uploads/sites/12/2017/03/5-1024x970.jpg" class="sh-overlay-item sh-table-cell" rel="lightbox">
+							                    <div class="sh-overlay-item-container">
+							                        <i class="icon-magnifier-add"></i>
+							                    </div>
+							                </a>
+
+										</div>
+									</div>
+								</div>
+
+							</a>
+						</div>
+						<a href="https://jevelin.shufflehound.com/portfolio1/project/book-cover-design/">
+							<h5>
+								Book Cover Design							</h5>
+						</a>
+						<div>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vitae dui felis. Curabitur posuere nibh&hellip;</div>
+					</div>
+				
+					<div class="sh-portfolio-single-related-mini col-md-3 col-sm-6 sh-portfolio-overlay-style-overlay4">
+
+						<div class="sh-portfolio-image">
+							<a href="https://jevelin.shufflehound.com/portfolio1/project/sketch-book/">
+
+								<div class="sh-portfolio-image-position">
+									<img class="sh-portfolio-img" src="https://cdn.jevelin.shufflehound.com/wp-content/uploads/sites/12/2017/03/4-660x420.jpg" alt="" />
+								</div>
+
+								<div class="sh-portfolio-overlay sh-portfolio-overlay4">
+									<div class="sh-portfolio-overlay4-container">
+										<div class="sh-portfolio-overlay4-icons sh-table">
+
+							                <a href="https://jevelin.shufflehound.com/portfolio1/project/sketch-book/" class="sh-overlay-item sh-table-cell">
+							                    <div class="sh-overlay-item-container">
+							                        <i class="icon-link"></i>
+							                    </div>
+							                </a>
+							                <a href="https://cdn.jevelin.shufflehound.com/wp-content/uploads/sites/12/2017/03/4-1024x922.jpg" class="sh-overlay-item sh-table-cell" rel="lightbox">
+							                    <div class="sh-overlay-item-container">
+							                        <i class="icon-magnifier-add"></i>
+							                    </div>
+							                </a>
+
+										</div>
+									</div>
+								</div>
+
+							</a>
+						</div>
+						<a href="https://jevelin.shufflehound.com/portfolio1/project/sketch-book/">
+							<h5>
+								Sketch Book							</h5>
+						</a>
+						<div>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer vitae dui felis. Curabitur posuere nibh&hellip;</div>
+					</div>
+							</div>
+		</div>
+	
+
+			</div>
+		</div>
+
+		<footer class="sh-footer">
+							<div class="sh-copyrights">
+		<div class="container container-padding">
+			
+				<div class="sh-copyrights-style2">
+					<div class="sh-table-full">
+												<div class="sh-table-cell">
+							
+<div class="sh-copyrights-text">
+	<span class="developer-copyrights ">
+		WordPress Theme built by <a href="http://shufflehound.com" target="blank"><strong>Shufflehound</strong>.</a>
+	</span>
+	<span></span>
+</div>						</div>
+					</div>
+				</div>
+
+			
+		</div>
+	</div>
+		</footer>
+	</div>
+
+
+	
+	
+		<div class="sh-back-to-top sh-back-to-top3">
+			<i class="icon-arrow-up"></i>
+		</div>
+
+	</div>
+
+
+
+
+		
+	<script>
+	window.ChatraSetup = {
+	    colors: {
+	        buttonText: '#fff',
+	        buttonBg: '#47c9e5'
+	    }
+		/*jQuery(document).ready(function ($) {
+			jQuery('#place_order').attr('disabled', 'disabled');
+		});*/
+	};
+	</script>
+	<!-- Chatra {literal} -->
+	<script>
+	    (function(d, w, c) {
+	        w.ChatraID = 'rZ9ZrwbmwQnBo72So';
+	        var s = d.createElement('script');
+	        w[c] = w[c] || function() {
+	            (w[c].q = w[c].q || []).push(arguments);
+	        };
+	        s.async = true;
+	        s.src = (d.location.protocol === 'https:' ? 'https:': 'http:')
+	        + '//call.chatra.io/chatra.js';
+	        if (d.head) d.head.appendChild(s);
+	    })(document, window, 'Chatra');
+	</script>
+	<!-- /Chatra {/literal} -->
+	
+
+
+
+
+
+	
+	<script type="text/javascript">
+	jQuery(document).ready(function ($) {
+
+		
+        $('.primary-desktop .header-logo-container, .primary-mobile .header-logo-container').attr('href','//jevelin.shufflehound.com/hello/');
+
+		function jevelin_settings() {
+			if( $(window).width() < 600 ) {
+				$('.sh-settings').hide();
+			} else {
+				$('.sh-settings').show();
+			}
+		}
+		jevelin_settings();
+
+	    $(window).resize(function() {
+	        clearTimeout(window.resizedFinished2);
+	        window.resizedFinished2 = setTimeout(function(){
+	            jevelin_settings();
+	        }, 500);
+	    });
+
+		$('.sh-settings-hide').on( 'click', function() {
+			$('.sh-settings').toggleClass( 'sh-settings-active' );
+		});
+
+	    $(document).keyup(function(e) {
+	        if (e.keyCode == 27) {
+	            if( $('.sh-settings').hasClass('sh-settings-active') ) {
+	                $('.sh-settings').removeClass('sh-settings-active');
+	            }
+	        }
+	    });
+
+		jQuery('.form-submit #submit').on('click', function( event ) {
+			alert( 'Hi, sorry, but this feature is disabled in our demo site!' );
+			event.preventDefault()
+			event.stopPropagation()
+			return false;
+		});
+
+	});
+	</script>
+
+
+
+
+
+
+<div class="sh-side-options">
+	<div class="sh-side-options-container" data-url="https://jevelin.shufflehound.com/portfolio1/project/gray-bag-mock-up/">
+
+
+			<a href="//jevelin.shufflehound.com/hello/" class="sh-side-options-item sh-accent-color">
+			<i class="icon icon-layers"></i>
+			<div class="sh-side-options-hover">
+				Showcase
+			</div>
+		</a>
+
+		<div class="sh-side-options-divider"></div>
+
+	
+		<a target="blank" href="http://themeforest.net/item/jevelin-multipurpose-responsive-theme/14728833?ref=Shufflehound&license=regular&open_purchase_for_item_id=14728833&purchasable=source" class="sh-side-options-item sh-accent-color">
+			<i class="icon icon-bag"></i>
+			<div class="sh-side-options-hover">Purchase<span></span>Jevelin</div>
+		</a>
+
+		<div class="sh-side-options-divider"></div>
+
+		<a href="//jevelin.shufflehound.com/hello/#questions" class="sh-side-options-item sh-accent-color">
+			<i class="icon icon-directions"></i>
+			<div class="sh-side-options-hover">Questions<span></span>/<span></span>Answers</div>
+		</a>
+
+		<div class="sh-side-options-divider"></div>
+
+		<a target="blank" href="http://themeforest.net/user/Shufflehound?ref=Shufflehound#contact" class="sh-side-options-item sh-accent-color">
+			<i class="icon icon-envelope"></i>
+			<div class="sh-side-options-hover">Ask<span></span>Question</div>
+		</a>
+	</div>
+</div>
+
+
+
+
+
+
+
+<script type="text/javascript">
+
+	jQuery(document).ready(function ($) {
+	    "use strict";
+
+	    $(".sh-page-loader").fadeOut(500);
+	    $("body").css('overflow', 'visible');
+
+		$(window).bind('beforeunload', function(e){
+			$('.sh-page-loader').fadeIn();
+		});
+
+	});
+</script>
+
+
+
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_add_to_cart_params = {"ajax_url":"\/portfolio1\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/portfolio1\/project\/gray-bag-mock-up\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View cart","cart_url":"https:\/\/jevelin.shufflehound.com\/portfolio1","is_cart":"","cart_redirect_after_add":"no"};
+/* ]]> */
+</script>
+
+
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var woocommerce_params = {"ajax_url":"\/portfolio1\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/portfolio1\/project\/gray-bag-mock-up\/?wc-ajax=%%endpoint%%"};
+/* ]]> */
+</script>
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var wc_cart_fragments_params = {"ajax_url":"\/portfolio1\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/portfolio1\/project\/gray-bag-mock-up\/?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments"};
+/* ]]> */
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script type='text/javascript'>
+/* <![CDATA[ */
+var jevelin = {"page_loader":"0","notice":"","header_animation_dropdown_delay":"1000","header_animation_dropdown":"easeOutQuint","header_animation_dropdown_speed":"300","lightbox_woocommerce":"","lightbox_opacity":"0.88","lightbox_transition":"elastic","page_numbers_prev":"Previous","page_numbers_next":"Next","rtl_support":"","footer_parallax":"","one_pager":"1"};
+/* ]]> */
+</script>
+
+
+	<script type="text/javascript"> jQuery(document).ready(function ($) { "use strict"; });</script>
+
+</body>
+</html>
